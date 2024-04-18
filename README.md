@@ -1,4 +1,4 @@
-# xOps-summer
+# xOps-summer 2024
 
 ### Diagram
 ![Diagram Lab](https://github.com/pitimon/xOps2024/raw/main/misc/xOps_Dia01.png)
